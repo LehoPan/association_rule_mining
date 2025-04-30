@@ -1,5 +1,5 @@
 # association_rule_mining
-Dependencies: ```mlxtend``` ```pandas``` ```numpy``` ```networkx```
+Dependencies: ```mlxtend``` ```pandas``` ```numpy``` ```networkx``` ```openpyxl```
 
 ## Running
 Run RuleMining.py for the dataset online retail II. It will show you a graphical representation of the rules mined, and after closing it will prompt you for stock ID's to be input and it will recommend you highly correlated items to bundle together based on the rules extracted. 
